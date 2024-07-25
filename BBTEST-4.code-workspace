@@ -8,6 +8,12 @@
 		},
 		{
 			"path": "../../VERIFICASENHA"
+		},
+		{
+			"path": "../../RESERVAS"
+		},
+		{
+			"path": "../../VERIFICAEMAIL"
 		}
 	],
 	"settings": {}
