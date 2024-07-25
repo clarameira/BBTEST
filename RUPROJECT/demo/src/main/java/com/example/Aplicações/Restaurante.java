@@ -71,7 +71,6 @@ public class Restaurante {
         } while (opcao != 1 && opcao != 2 && opcao != 3 && opcao != 4 && opcao != 5);
     }
 
-
     private void carregarUsuarios() {
         try {
             BufferedReader reader = new BufferedReader(new FileReader("usuarios.txt"));

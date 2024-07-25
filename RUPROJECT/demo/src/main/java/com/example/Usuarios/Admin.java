@@ -20,7 +20,6 @@ public class Admin extends Usuario {
         super(login, senha); 
         this.cardapio = new Cardapio(); // Inicializa o cardápio do restaurante como uma nova instância de Cardapio
         this.restaurante = restaurante; // Armazena a referência do restaurante passada como parâmetro
-        this.restaurante.usuarios.add(this); // Adiciona o administrador à lista de usuários do restaurante
         carregarCardapio(); // Este método é chamado para carregar o cardápio do restaurante
     }
 
