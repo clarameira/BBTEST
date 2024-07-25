@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../PALINDROMO"
+		},
+		{
+			"path": "../../VERIFICASENHA"
 		}
 	],
 	"settings": {}
