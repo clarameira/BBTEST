@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "../../BibliotecaClass"
+		},
+		{
+			"path": "../../MatrizClass"
 		}
 	],
 	"settings": {}
