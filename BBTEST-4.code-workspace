@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "../../MatrizClass"
+		},
+		{
+			"path": "../../AGENDAPROJECT"
 		}
 	],
 	"settings": {}
