@@ -23,10 +23,9 @@
 		},
 		{
 			"path": "../../AGENDAPROJECT"
-		},
-		{
-			"path": "../../LOCADORAPROJECT"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
 }
