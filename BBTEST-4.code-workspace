@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "../../AGENDAPROJECT"
+		},
+		{
+			"path": "../../LOCADORAPROJECT"
 		}
 	],
 	"settings": {}
