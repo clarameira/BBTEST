@@ -8,7 +8,7 @@ A presente pesquisa investiga conceitos teóricos e práticos na aplicação das
 
 O teste de caixa preta visa detectar erros/falhas diante do funcionamento externo do programa. Nesse sentido, a relização do teste não determina a ausência de erros, mas sim, a existência deles. 
 
-Assim, assegurar a qualidade do software irá depender além da expertise do testador, o dominio na realização das técnicas. Dessa forma, o estudo tem como intuito analisar e investigar técnicas de testes de caixa preta e a sua eficacia na detecção das falhas em um software.
+Assim, assegurar a qualidade do software irá depender além da expertise do testador, o dominio na realização das técnicas. Dessa forma, o estudo tem como intuito analisar e investigar técnicas de testes de caixa preta e a sua eficácia na detecção das falhas em um software.
 
 Por fim, a pesquisa envolve a análise de diversas formas de técnicas de teste e medições dos seus níveis de eficácia. Estudar e análisar essas metodologias de testes visa o entendimento da capacidade de correções de erros, além de metrificar as técnicas e avaliá-las individualmente.
 
@@ -20,10 +20,10 @@ O resultado da presente pesquisa fundamenta-se em 5 etapas, sendo elas:
 
 - [x] Levantamento bibliográfico
 
-Nessa atividade, foram realizados leituras e análises de trabalhos relacionados e livros que abordam conceitos de testes de caixa preta e também pesquisas relacionadas a técnicas e metodologias utilizadas para a eficácia dos testes.
+Nessa atividade, foram realizadas leituras e análises de trabalhos relacionados e livros que abordam conceitos de testes de caixa preta e também pesquisas relacionadas a técnicas e metodologias utilizadas para a eficácia dos testes.
 
 - [ ] Desenvolvimento dos Casos de Teste
-- [ ] Análise do Uso das Técnicas de Teste
+- [ ] Análise do uso das técnicas de Teste
 - [ ] Coleta de informações com testadores
 - [ ] Feedback Final
 
