@@ -1,6 +1,6 @@
-# Avaliação da Eficácia dos Testes Caixa Preta         
+# Um Panorama das Abordagens de Testes Caixa Preta        
 
-> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "A Avaliação da Eficácia dos Testes Caixa Preta em Detectar Falhas de Software".           
+> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "Um Panorama das Abordagens de Testes Caixa Preta".           
 
 ## 📋 Descrição e Objetivos         
 
