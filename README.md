@@ -19,13 +19,10 @@ Por fim, a pesquisa envolve a análise de diversas formas de técnicas de teste 
 O resultado da presente pesquisa fundamenta-se em 5 etapas, sendo elas:
 
 - [x] Levantamento bibliográfico
-
-Nessa atividade, foram realizadas leituras e análises de trabalhos relacionados e livros que abordam conceitos de testes de caixa preta e também pesquisas relacionadas a técnicas e metodologias utilizadas para a eficácia dos testes.
-
-- [ ] Desenvolvimento dos Casos de Teste
-- [ ] Análise do uso das técnicas de Teste
-- [ ] Coleta de informações com testadores
-- [ ] Feedback Final
+- [x] Desenvolvimento dos Casos de Teste
+- [x] Análise do uso das técnicas de Teste
+- [x] Coleta de informações com testadores
+- [x] Feedback Final
 
 ------------------------
 
