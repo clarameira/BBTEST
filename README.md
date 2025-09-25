@@ -16,7 +16,7 @@ Por fim, a pesquisa envolve a análise de diversas formas de técnicas de teste 
 
 ## ✏️ Método Científico
 
-O resultado da presente pesquisa fundamenta-se em 3 etapas, sendo elas:
+O resultado da presente pesquisa fundamenta-se em 3 etapas, são elas:
 
 - [x] Levantamento bibliográfico
 - [x] Geração dos Casos de Teste
@@ -38,3 +38,4 @@ Membro: Maria Clara de Mederiros Meira </br>
 - KHAN., M. E.; KHAN, F. A Comparative Study of White Box, Black Box and Grey Box Testing Techniques. [S.l.]: (IJACSA) International Journal of Advanced Computer Science and Applications, 2012.
 - LEE., N. et al. Black-box testing of practical movie recommendation systems: A comparative study. [S.l.]: 5th International Conference on Collective Computational Intelligence (ICCCI), 2013.
 - KANER, C.; FALK, J.; NGUYEN, H. Testing Computer Software. [S.l.]: Wiley, 2011.
+
