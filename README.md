@@ -1,6 +1,6 @@
-# Um Panorama das Abordagens de Testes Caixa Preta        
+# Uma Abordagem Instrucional Teórica e Prática para os Testes Caixa Preta        
 
-> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "Um Panorama das Abordagens de Testes Caixa Preta".           
+> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "Uma Abordagem Instrucional Teórica e Prática para os Testes Caixa Preta".           
 
 ## 📋 Descrição e Objetivos         
 
@@ -25,10 +25,10 @@ O resultado da presente pesquisa fundamenta-se em 3 etapas, são elas:
 ------------------------
 
 ## 👨‍👧‍👧 Membros
-Coordenador: Alysson Filgueira Milanez </br>
-Membro: Geísa Morais Gabriel </br>
-Membro: Lívia Beatriz Maia de Lima </br>
-Membro: Maria Clara de Mederiros Meira </br>
+Coordenador: Removido para revisão </br>
+Membro: Removido para revisão </br>
+Membro: Removido para revisão </br>
+Membro: Removido para revisão </br>
 
 ------------------------
 
