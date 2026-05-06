@@ -1,6 +1,6 @@
-# Uma Abordagem Instrucional Teórica e Prática para os Testes Caixa Preta        
+# Objetos Educacionais para Apoiar a Prática de Testes Caixa Preta       
 
-> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "Uma Abordagem Instrucional Teórica e Prática para os Testes Caixa Preta".           
+> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "Objetos Educacionais para Apoiar a Prática de Testes Caixa Preta".           
 
 ## 📋 Descrição e Objetivos         
 
@@ -76,10 +76,8 @@ O resultado da presente pesquisa fundamenta-se em 3 etapas, são elas:
 
 ------------------------
 ## 👨‍👧‍👧 Membros
-Coordenador: Removido para revisão 
-Membro: Removido para revisão 
-Membro: Removido para revisão 
-Membro: Removido para revisão
+Removido para revisão 
+
 
 ------------------------
 
