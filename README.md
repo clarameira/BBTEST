@@ -14,17 +14,28 @@ Por fim, a pesquisa envolve a análise de diversas formas de técnicas de teste 
 
 ------------------------
 
-## ✏️ Método Científico
+## ✏️ Design Instrucional
 
 O resultado da presente pesquisa fundamenta-se em 3 etapas, são elas:
 
-- [x] Levantamento bibliográfico
-- [x] Desenvolvimento dos sistemas para análise
-- [x] Desenvolvimento dos casos de teste
-- [x] Aplicação das técnicas de teste
+- [x] Desenvolvimento dos Sistemas como Amostra
+- [x] Análise das Especificações e Desenvolvimento dos Casos de Teste
+- [x] Aplicação das Técnicas de Teste Caixa Preta
 
 ------------------------
+## 🪲 Defeitos Injetados
 
+ ## Sistema de Verificação de Senhas
+ -  Não impõe limites mínimos e máximos para a inserção de caracteres
+ -  Permite a inserção indevida de de espaços
+ -  Pede a inserção de caracteres especiais, mas os limita durante a verificação
+ -  Inconsistências durante a verificação \textit{case-sensitive}
+ -  Permite a execução sem a validação dos dados de entrada
+ -  Não contempla aspectos de usabilidade
+
+ - 
+
+------------------------
 ## 👨‍👧‍👧 Membros
 Coordenador: Removido para revisão </br>
 Membro: Removido para revisão </br>
