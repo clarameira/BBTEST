@@ -72,12 +72,6 @@ O resultado da presente pesquisa fundamenta-se em 3 etapas, são elas:
  - Não há validação quanto a quantidade mínima ou máxima de carateres inseridos
  - A função de remoção pode comprometer a função de busca
  - A manipulação de arquivos está incorretamente implementada
- 
-
-------------------------
-## 👨‍👧‍👧 Membros
-Removido para revisão 
-
 
 ------------------------
 
