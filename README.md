@@ -29,18 +29,57 @@ O resultado da presente pesquisa fundamenta-se em 3 etapas, são elas:
  -  Não impõe limites mínimos e máximos para a inserção de caracteres
  -  Permite a inserção indevida de de espaços
  -  Pede a inserção de caracteres especiais, mas os limita durante a verificação
- -  Inconsistências durante a verificação \textit{case-sensitive}
+ -  Inconsistências durante a verificação {case-sensitive
  -  Permite a execução sem a validação dos dados de entrada
  -  Não contempla aspectos de usabilidade
 
- - 
+ ## Sistema de Verificação de Palavras Palíndromas 
+ - Não remove espaços durante a verificação 
+ - Verificação case-sensitive, prejudicando a verificação
+ - Não trata corretamente o uso de pontuação e acentuação
+ - Permite a execução sem a validação dos dados de entrada
+
+ ## Sistema de Reserva de Voos
+ - Não há validação quanto aos endereços de origem e destino
+ - Não há o tratamento correto para validação das datas
+ - Problemas com o cálculo dos dias de viagem
+ - Não verifica a inserção de caracteres indevidos 
+ - Não há limite mínimo ou máximo de inserção de caracteres
+ - Não contempla aspectos de usabilidade
+
+ ## Sistema de Validação de E-mails
+ - Não verifica a inserção de um TLD válido 
+ - Aceita a inserção de caracteres especiais 
+ - Não há limite mínimo ou máximo de inserção de caracteres
+ - Não verifica a inserção de um domínio válido
+ - Não contempla aspectos de usabilidade
+
+ ## Sistema de Calculadora de Matrizes
+ - A fórmula do cálculo de determinantes está incorretamente implementada
+ - A utilização de variáveis do tipo float causam inconsistências nos cálculos
+ - Permite a inserção de caracteres alfanuméricos, prejudicando o processamento
+ - Não há limite mínimo ou máximo de números inseridos
+
+ ## Sistema de Empréstimo de Livros
+ - Não há o tratamento de exceções no menu
+ - Não há validação quanto aos caracteres inseridos, aceitando até entradas vazias
+ - Empréstimos podem ser realizados mesmo com o preenchimento incompleto 
+ - Não há limite mínimo ou máximo de inserção de caracteres
+ - A busca é case-sensitive
+
+ ## Sistema de Agenda de Contatos 
+ - Permite a inserção de contatos com dados idênticos 
+ - Não há validação quanto a quantidade mínima ou máxima de carateres inseridos
+ - A função de remoção pode comprometer a função de busca
+ - A manipulação de arquivos está incorretamente implementada
+ 
 
 ------------------------
 ## 👨‍👧‍👧 Membros
-Coordenador: Removido para revisão </br>
-Membro: Removido para revisão </br>
-Membro: Removido para revisão </br>
-Membro: Removido para revisão </br>
+Coordenador: Removido para revisão 
+Membro: Removido para revisão 
+Membro: Removido para revisão 
+Membro: Removido para revisão
 
 ------------------------
 
