@@ -1,6 +1,6 @@
-# Objetos Educacionais para Apoiar a Prática de Testes Caixa Preta       
+# Objetos de Aprendizagem para Apoiar a Prática de Testes Caixa Preta       
 
-> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "Objetos Educacionais para Apoiar a Prática de Testes Caixa Preta".           
+> Repositório direcionado para a análise dos casos de teste como atividade metodológica para a pesquisa "Objetos de Aprendizagem para Apoiar a Prática de Testes Caixa Preta".           
 
 ## 📋 Descrição e Objetivos         
 
